@@ -7,3 +7,5 @@ spring:
 app:
   host: ${HOSTNAME:localhost}
 
+server:
+  port: 8083
